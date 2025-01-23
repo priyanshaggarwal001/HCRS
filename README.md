@@ -1,0 +1,1 @@
+this zip files containes the label file for the csv file along with the best trained machine learning model it also has csv files for different diseases which has been cleans and the code for training the models
